@@ -1,6 +1,6 @@
-# <a href="/go/">Esportesdasorte.com</a>
+# <a href="https://bit.ly/bet-brasil">Esportesdasorte.com</a>
 
-# <a href="/go/">CLIQUE AQUI PARA ACEDER</a>
+# <a href="https://bit.ly/bet-brasil">CLIQUE AQUI PARA ACEDER</a>
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,9 +8,9 @@
 <body>
 
 <div style=<text-align: center;">
-<a href="/go/" title="Esporte da Sorte"><img src="https://github.com/user-attachments/assets/0ac18dfc-200e-4364-9894-a4b69b936900" title="Esporte da Sorte" alt="Esporte da Sorte"></a></div>
+<a href="https://bit.ly/bet-brasil" title="Esporte da Sorte"><img src="https://github.com/user-attachments/assets/0ac18dfc-200e-4364-9894-a4b69b936900" title="Esporte da Sorte" alt="Esporte da Sorte"></a></div>
 <div style=<text-align: center;">
-<a href="/go/">
+<a href="https://bit.ly/bet-brasil">
 <img src="https://github.com/user-attachments/assets/0ac18dfc-200e-4364-9894-a4b69b936900" />
 </a></div>
 
